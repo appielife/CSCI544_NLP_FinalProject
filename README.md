@@ -21,13 +21,9 @@ Tensorflow 1.4
 
 <h2>IMPORTANT INSTRCTIONS TO RUN THE PROJECT </h2>
 
-<I>I request you to keep the credentials safe and let me know on aparwal@usc.edu, when I can change the same.</I>
-
-Login to https://console.cloud.google.com/ <br>
-userid: arpitparwal017@gmail.com <br>
-pwd: #D3v3l0p3r
+<I>
 <br>
-When logged in <br>
+When logged in to GCP <br>
 Go to Computer Engine --> VM Instances from the left menu
 You will see and instance running with the name instance-1, if not you can start the instance.
 Click on SSH under connect column and it will connect you to the instance directly. 
